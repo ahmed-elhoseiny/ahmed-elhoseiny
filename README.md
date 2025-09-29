@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m currently working on: Digital IC Design, focusing on ASIC/SoC design flow.<br>- 🌱 I’m currently learning: Advanced topics in VLSI design.<br>- 👯 I’m looking to collaborate on: Projects related to RTL design, verification, and backend implementation in chip design.<br>- 🤔 I’m looking for help with: Improving ASIC design expertise.<br>- 💬 Ask me about: ASIC/VLSI design flow, RTL coding in Verilog, and digital circuit design concepts.<br>- 📫 How to reach me: email: ahmed.m.husseiny@gmail.com / linkedin: linkedin.com/in/ahmed-mahmoud-husseiny/</p>
+<p align="left">- 🔭 I’m currently working on: Digital IC Design, focusing on ASIC/SoC design flow.<br>- 🌱 I’m currently learning: Advanced topics in VLSI design.<br>- 👯 I’m looking to collaborate on: Projects related to RTL design, verification, and backend implementation in chip design.<br>- 🤔 I’m looking for help with: Improving ASIC design expertise.<br>- 💬 Ask me about: ASIC/VLSI design flow, RTL coding in Verilog, and digital circuit design concepts.<br>- 📫 How to reach me: email: mailto:ahmed.m.husseiny@gmail.com / linkedin: linkedin.com/in/ahmed-mahmoud-husseiny/</p>
 
 ###
 
@@ -17,7 +17,7 @@
   <a href="mailto:ahmed.m.husseiny@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="ahmed.m.huseiny@hotmail.com" target="_blank">
+  <a href="mailto:ahmed.m.huseiny@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://wa.me/201115869788" target="_blank">
@@ -38,22 +38,34 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="60" alt="cplusplus logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=perl" height="60" alt="perl logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />  
+  <img src="https://www.svgrepo.com/show/374115/systemverilog.svg" height="60" alt="systemverilog logo"  /> 
+  
+  <img width="12" />
+  <img src="https://embetronicx.b-cdn.net/wp-content/uploads/2022/05/vhdl.png" height="60" alt="vhdl logo"  />  
+  
+ ### <img width="12" />
+ ### <img src="" height="60" alt=" logo"  /> 
+  
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Tcl-Tk_universal_scripting.svg/678px-Tcl-Tk_universal_scripting.svg.png" height="60" alt="tcl logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="60" alt="tcl logo"  />
 </div>
 
 ###
