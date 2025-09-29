@@ -2,9 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="213" src="https://gifdb.com/images/thumbnail/animated-electronics-motherboard-80uw8e07mwzuwdij.gif"  />
 
 ###
 
