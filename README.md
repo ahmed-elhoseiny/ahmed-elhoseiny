@@ -36,22 +36,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
-  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="60" alt="cplusplus logo"  />
-  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=perl" height="60" alt="perl logo"  />
-  
-  <img width="12" />
+<div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   
   <img width="12" />
@@ -62,6 +47,21 @@
   
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Tcl-Tk_universal_scripting.svg/678px-Tcl-Tk_universal_scripting.svg.png" height="60" alt="tcl logo"  />
+  
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=perl" height="60" alt="perl logo"  />
+  
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
+  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="60" alt="cplusplus logo"  />
+  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 
 </div>
 
