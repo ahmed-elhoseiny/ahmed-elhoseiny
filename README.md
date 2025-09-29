@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<br clear="both">
+
+<h2 align="center">👋 Hi there, I am Ahmed Husseiny</h2>
 
 ###
 
@@ -41,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=perl" height="60" alt="perl logo"  />
   <img width="12" />
