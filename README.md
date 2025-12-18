@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m currently working on: Digital IC Design, focusing on ASIC/SoC design flow.<br>- 🌱 I’m currently learning: Advanced topics in VLSI design.<br>- 👯 I’m looking to collaborate on: Projects related to RTL design, verification, and backend implementation in chip design.<br>- 🤔 I’m looking for help with: Improving ASIC design expertise.<br>- 💬 Ask me about: ASIC/VLSI design flow, RTL coding in Verilog, and digital circuit design concepts.<br>- 📫 How to reach me: email: mailto:ahmed.m.husseiny@gmail.com / linkedin: linkedin.com/in/ahmed-mahmoud-husseiny/</p>
+<p align="left">- 🔭 I’m currently working on: Digital IC Design, focusing on ASIC/SoC design flow.<br>- 🌱 I’m currently learning: Advanced topics in VLSI design.<br>- 👯 I’m looking to collaborate on: Projects related to RTL design, verification, and backend implementation in chip design.<br>- 🤔 I’m looking for help with: Improving ASIC design expertise.<br>- 💬 Ask me about: ASIC/VLSI design flow, RTL coding in Verilog, and digital circuit design concepts.<br>- 📫 How to reach me: email: ahmed.m.husseiny@gmail.com / linkedin: linkedin.com/in/ahmed-mahmoud-husseiny/</p>
 
 ###
 
