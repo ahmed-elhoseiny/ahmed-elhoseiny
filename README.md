@@ -52,7 +52,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Tcl-Tk_universal_scripting.svg/678px-Tcl-Tk_universal_scripting.svg.png" height="60" alt="tcl logo"  />
   
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=perl" height="60" alt="perl logo"  />
+  <img src="https://www.svgrepo.com/show/373960/perl.svg" height="60" alt="perl logo"  />
   
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -64,7 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="60" alt="cplusplus logo"  />
 
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/448236/linux.svg" height="60" alt="vscode logo"  />
+  <img src="https://www.svgrepo.com/show/448236/linux.svg" height="60" alt="linux logo"  />
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
