@@ -62,7 +62,10 @@
   
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="60" alt="cplusplus logo"  />
-  
+
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/448236/linux.svg" height="60" alt="vscode logo"  />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 
