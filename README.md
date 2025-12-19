@@ -55,7 +55,7 @@
   <img src="https://www.svgrepo.com/show/373960/perl.svg" height="60" alt="perl logo"  />
   
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://www.svgrepo.com/show/354238/python.svg" height="60" alt="python logo"  />
   
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
