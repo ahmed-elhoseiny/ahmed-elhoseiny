@@ -38,6 +38,9 @@
 
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/374163/verilog.svg" height="60" alt="verilog logo"  />
   
   <img width="12" />
   <img src="https://www.svgrepo.com/show/374115/systemverilog.svg" height="60" alt="systemverilog logo"  /> 
